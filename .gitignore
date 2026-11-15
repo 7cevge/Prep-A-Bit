@@ -1,0 +1,6 @@
+# hide the actual data
+app/data/
+
+# other
+**/__pycache__/
+*.pyc
